@@ -36,7 +36,7 @@ class MemoryGame extends Component {
       {id: 14, CardState: CardState.HIDING, backgroundColor: 'lightskyblue'},
       {id: 15, CardState: CardState.HIDING, backgroundColor: 'lightskyblue'}
     ];
-    //cards = shuffle(cards);
+    cards = shuffle(cards);
     this.state = {cards, noClick: false};
     this.handleClick = this.handleClick.bind(this);
     this.handleNewGame = this.handleNewGame.bind(this);
