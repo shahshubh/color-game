@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## View Deployed Version at [https://colorgamee.herokuapp.com/](https://colorgamee.herokuapp.com/)
+## Demo
 
+![demovideo](demo.gif)
 
 ## Available Scripts
 
